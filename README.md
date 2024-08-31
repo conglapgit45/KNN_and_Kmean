@@ -1,2 +1,2 @@
 # KNN_and_Kmean
-A demo about K_Nearest_Neighbors and K_Mean using numpy (without sklean)
+A demo about K_Nearest_Neighbors (using sklean) and K_Mean (without sklean) 
